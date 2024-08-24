@@ -1,0 +1,16 @@
+C:\Users\matij\source\repos\NobelDBQuery\NobelDBQuery\bin\Debug\NobelDBQuery.exe.config
+C:\Users\matij\source\repos\NobelDBQuery\NobelDBQuery\bin\Debug\NobelDBQuery.exe
+C:\Users\matij\source\repos\NobelDBQuery\NobelDBQuery\bin\Debug\NobelDBQuery.pdb
+C:\Users\matij\source\repos\NobelDBQuery\NobelDBQuery\bin\Debug\EntityFramework.dll
+C:\Users\matij\source\repos\NobelDBQuery\NobelDBQuery\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\matij\source\repos\NobelDBQuery\NobelDBQuery\bin\Debug\System.Data.SQLite.dll
+C:\Users\matij\source\repos\NobelDBQuery\NobelDBQuery\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\matij\source\repos\NobelDBQuery\NobelDBQuery\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\matij\source\repos\NobelDBQuery\NobelDBQuery\bin\Debug\EntityFramework.xml
+C:\Users\matij\source\repos\NobelDBQuery\NobelDBQuery\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\matij\source\repos\NobelDBQuery\NobelDBQuery\bin\Debug\System.Data.SQLite.xml
+C:\Users\matij\source\repos\NobelDBQuery\NobelDBQuery\obj\Debug\NobelDBQuery.csproj.AssemblyReference.cache
+C:\Users\matij\source\repos\NobelDBQuery\NobelDBQuery\obj\Debug\NobelDBQuery.csproj.CoreCompileInputs.cache
+C:\Users\matij\source\repos\NobelDBQuery\NobelDBQuery\obj\Debug\NobelDBQ.8D9481D5.Up2Date
+C:\Users\matij\source\repos\NobelDBQuery\NobelDBQuery\obj\Debug\NobelDBQuery.exe
+C:\Users\matij\source\repos\NobelDBQuery\NobelDBQuery\obj\Debug\NobelDBQuery.pdb
